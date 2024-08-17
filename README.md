@@ -1,19 +1,14 @@
 # Youngwoo Cho(chodevelop)'s github 📚
 
-## Introduce
+## Introduce 🙇
 
-`Hello World 👋... ` I'm a student interested in full-stack development. 
-
-`Currently...` I am interested in grasping the overall flow of the web development process.
-
-`Ultimately...` The goal is to be a programmer who can see logic beyond languages.
-
-## Interested in...
-`Currently...` Data structure, algorithm, python programming for intermediate problem Solving(coding test✏️).
-
-`In the near future...` WebAssembly for my new node.js project.
-
-`Ultimately...` Monad, haskell, functional programming, discrete mathematics for advanced programming.
+### Hello World 👋...
+I'm a student interested in `Full-Stack` development. 
+I want to be a `Programmer` who can see `Logic` beyond languages.
+### Now I am Interested in...
+Problem solving for `Coding Test (Python)`, `WebAssembly` for my new `Node.js` project.
+### I want to learn...
+`Monad`, `Haskell`, `Functional Programming`, `Discrete Mathematics` for advanced programming.
 
 ## Problem Solving Status
 ### * Solved.ac (BOJ)
