@@ -3,12 +3,16 @@
 ## Introduce 🙇
 
 ### Hello World 👋...
-I'm a student interested in `Full-Stack` development. 
-I want to be a `Programmer` who can see `Logic` beyond languages.
+* I'm a student interested in `Full-Stack` development.
+* I want to be a `Programmer` who can see `Logic` and `Structures` beyond languages.
+
 ### Now I am Interested in...
-Problem solving for `Coding Test (Python)`, `WebAssembly` for my new `Node.js` project.
+* `Python Programming` and Problem solving for `Coding Test`.
+* `WebAssembly` for my new `Node.js` project.
+
 ### I want to learn...
-`Monad`, `Haskell`, `Functional Programming`, `Discrete Mathematics` for advanced programming.
+* `Monad`, `Haskell` for `Functional Programming`.
+* `Discrete Mathematics`, `Number Theory` for more knowledge of `Computer Science`.
 
 ## Problem Solving Status
 ### * Solved.ac (BOJ)
