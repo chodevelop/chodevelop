@@ -1,16 +1,16 @@
-## Hi there 👋
+# Youngwoo Cho(chodevelop)'s github 📚
 
-<!--
-**chodevelop/chodevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduce
 
-Here are some ideas to get you started:
+`Hello World 👋... ` I'm a student interested in full-stack development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Currently...` I am interested in grasping the overall flow of the web development process.
+
+`Ultimately...` The goal is to be a programmer who can see logic beyond languages.
+
+## Interested in...
+`Currently...` Data structure, algorithm, python programming for intermediate problem Solving(coding test✏️).
+
+`In the near future...` WebAssembly for my new node.js project.
+
+`Ultimately...` Monad, haskell, functional programming, discrete mathematics for advanced programming.
