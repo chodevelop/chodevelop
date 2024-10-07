@@ -1,4 +1,4 @@
-# ***Surmount the Language, Structure and Logic.*** 📚
+# ***Surmount the Language; Structure and Logic.*** 📚
 
 ## Introduce 🙇
 
